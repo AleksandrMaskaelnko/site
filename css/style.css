@@ -1,0 +1,254 @@
+body{
+margin:0;
+text-align:center;
+background-image:url(../images/header.jpg);
+background-size:100%;
+background-repeat:no-repeat;
+}
+
+#header{
+
+margin:0px;
+padding:0px;
+font-family:Verdana;
+color:#F4F4F4;
+height:400px
+
+
+}
+.h1{
+font-size:40px;
+font-weight:bold;
+width:70%;
+margin:200px auto;
+
+}
+#spisok{
+    padding: 10px;
+    margin:200px 0px;
+    
+}
+
+#sport{
+background-color:#F4F4F4;
+height:400px;
+
+}
+
+#news{
+background-color:#F4F4F4;
+height:1000px;
+}
+
+#news_head{
+margin:0px auto 50px;
+font-family:Comic Sans MS;
+font-size:60px;
+font-weight: bold;    
+
+}
+
+#news_in{
+width: 800px;
+height: 500px;
+margin:0px auto;
+font-family:Verdana;
+
+}
+
+#news_in p{
+ text-align: left;   
+}
+
+#news1{
+height: 200px;
+background-color:#F4F4F4;
+margin:0 0 20px 0;
+}
+
+.news_1{
+    float:left;
+    margin:0 10px 0 0;
+
+}
+
+.news_2{
+    font-size:20px;
+   font-weight:bold;
+
+   
+}
+#news_in a{
+    color:#000000;
+    text-decoration: none;
+    
+         
+        
+}
+
+#news2{
+height: 400px;
+width: 390px;
+background-color:#F4F4F4;
+float:left;
+}
+
+#news3{
+height: 200px;
+width: 390px;
+background-color:#F4F4F4;
+float:right;
+}
+
+#social{
+background-color:#F4F4F4;
+height:600px;
+   
+}
+
+#social_head{
+margin:0px auto 100px;
+font-family:Comic Sans MS;
+font-size:60px;
+font-weight: bold;
+}
+
+
+
+#social_in{
+width:700px;
+height:200px;
+margin:70px auto;
+}
+
+#insta{
+float:left;
+}
+
+#snap{
+float:left;
+margin:0px 20px;
+}
+
+#vk{
+float:left;
+margin:0px 20px;
+}
+
+#face{
+float:left;
+}
+
+#media{
+background-color:#F4F4F4;
+height:400px;
+
+
+}
+
+
+#about{
+background-color:#F4F4F4;
+height:400px;
+    margin:0;
+
+}
+
+#about_head{
+margin:0 auto;
+font-family:Comic Sans MS;
+font-size:60px;
+font-weight: bold;
+}
+
+
+#footer{
+background-image:url(../images/header.jpg);
+background-size:100%;
+background-repeat:no-repeat;
+margin:0;
+padding:5px;
+height:200px;
+color:#F4F4F4;
+text-align:left;
+
+}
+
+#contact{
+font-weight: bold;
+font-size: 22px;
+margin:0 30px;
+}
+
+#contact_in{
+margin:0px 10px;
+}
+
+ul.hr li{
+display:inline;
+border:2px solid #747371;
+padding:3px;
+border-radius:30px;
+font-size:18px;
+padding:20px;
+}
+
+.hr li:hover{
+background-color:#EFDBC2;
+color:#747371;
+}
+
+
+li{
+cursor:pointer;
+	
+}
+
+#spisok a{
+text-decoration:none;
+border-bottom:none;
+}
+
+#spisok a:link{color:#F4F4F4}
+#spisok a:visited{color:#F4F4F4}
+#spisok a:hover{color:#747371}
+#spisok a:active{color:#747371}    
+    
+    
+}
+
+a:link{color:#111111}
+a:visited{color:#FAA21A}
+a:hover{color:#800000}
+a:active{color:#008000}
+
+#media_head{
+margin:0 auto;
+font-family:Comic Sans MS;
+font-size:60px;
+font-weight: bold;
+}
+
+#photo {
+float:left;
+font-family:Verdana;
+}
+
+#videos{
+float:left;
+margin:0px 70px;
+font-family:Verdana;
+}
+#music{
+float:left;
+font-family:Verdana;
+}
+#media_in{
+width:600px;
+height:200px;
+margin:70px auto;
+}
+
+
+
+
